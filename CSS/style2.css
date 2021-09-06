@@ -1,0 +1,12 @@
+.workgrid{
+    display: grid;
+}
+.hoh{
+    grid-row-start: auto;
+}
+.comps{
+    grid-row-end: auto;
+}
+.mindfulme{
+    grid-column-end: auto;
+}
